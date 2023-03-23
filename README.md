@@ -11,9 +11,12 @@ Compile the source code using the command javac KeypadConversionSrc.java
 Run the program using the command java KeypadConversionSrc
 Enter a message when prompted by the program
 
-#Output preview
-'''
+# Output Preview
+
+```
 Enter a message: Hello World!
 Keypad sequence: 4433555555666110966677755531111
-'''
+
+```
+
 Note that the space character is represented by 0 in the output.
